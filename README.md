@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**meruerttt/meruerttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Meruert — an aspiring frontend developer.
 
-Here are some ideas to get you started:
+I enjoy creating clean and user-friendly websites using HTML, CSS, and JavaScript.  
+I'm currently learning new technologies and working on real projects to grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a salary analysis website and an online clothing store  
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and Git  
+- 👯 I want to collaborate on web development projects  
+- 🤔 I want to improve my JavaScript skills and grow as a developer  
+- 💬 You can ask me about building simple responsive websites  
+- 📫 How to reach me: [@maryblinnn](https://instagram.com/maryblinnn)  
+- 😄 Pronouns: she/her  
+- ⚡ Fun fact: I love design and always pay attention to little visual details
